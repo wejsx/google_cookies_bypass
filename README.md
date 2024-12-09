@@ -1,2 +1,2 @@
 # google_cookies_bypass
-google cookies bypass
+google (chrome) cookies bypass
